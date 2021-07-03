@@ -10,4 +10,4 @@ West Bengal
 
 India
 
-| [Computational Skills](./ComputationalSkills.md) |
+| [Computational Skills](https://github.com/subimal/CV/blob/gh-pages/ComputationalSkills.md) |
